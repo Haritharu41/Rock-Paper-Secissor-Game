@@ -1,4 +1,4 @@
-<h1> Rock , Paper , Secissor Game</h1><br>
+<h2> Rock Paper Secissor Game</h2>
 
 <p> This is Rock, Paper, Secissor game. This project built with:<br> HTML, CSS, and
 JavaScript.</p>
